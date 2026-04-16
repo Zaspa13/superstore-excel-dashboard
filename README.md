@@ -29,6 +29,11 @@ The goal was to identify performance trends, profitability drivers, weak product
 - KPI Cards
 - Dashboard Design and Layout Formatting
 
+## Data Source
+The analysis in this project is based on the Superstore dataset, a publicly available retail sample dataset commonly used for dashboard and analytics practice.
+
+Source: kaggle.com/datasets/vivek468/superstore-dataset-final?resource=download
+
 ## Files Included
 
 - Superstore_Excel_Dashboard_Portfolio.xlsx – complete Excel workbook
